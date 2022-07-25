@@ -2123,7 +2123,6 @@ ul.actions li:first-child {
 }
 
 .wrapper.style5 {
-	text-shadow: 1px 1px 0px #fff;
 	background-color: wheat;
 }
 
@@ -2141,21 +2140,6 @@ ul.actions li:first-child {
 .wrapper.style4 h5,
 .wrapper.style4 h6 {
 	color: #fff;
-}
-
-.wrapper.style4 form input[type=text],
-.wrapper.style4 form input[type=password],
-.wrapper.style4 form select,
-.wrapper.style4 form textarea {
-	border: none;
-	background: #282828;
-}
-
-.wrapper.style4 form input[type=text]:focus,
-.wrapper.style4 form input[type=password]:focus,
-.wrapper.style4 form select:focus,
-.wrapper.style4 form textarea:focus {
-	background: #252525;
 }
 
 /* Nav */
@@ -2203,7 +2187,7 @@ ul.actions li:first-child {
 }
 
 #nav a:hover {
-	color: #fff !important;
+	color: grey ;
 	background: #383838;
 }
 
@@ -2301,7 +2285,6 @@ body>article {
 }
 
 /* Large */
-
 @media screen and (max-width: 1280px) {
 
 	/* Basic */
@@ -2360,6 +2343,24 @@ body>article {
 	#top .image {
 		margin: 0 auto 2em auto;
 	}
+
+		/* Nav */
+
+		#nav {
+			height: 44px;
+			line-height: 44px;
+		}
+	
+		#nav a {
+			padding: 0 0.75em;
+			height: inherit;
+			line-height: inherit;
+			border-radius: 0;
+		}
+	
+		/* #nav a:hover {
+			background-color: grey;
+		} */
 
 }
 
@@ -2530,15 +2531,12 @@ body>article {
 	}
 
 	#nav a {
-		padding: 0 0.75em;
+		padding: 0 0.5em;
 		height: inherit;
 		line-height: inherit;
 		border-radius: 0;
 	}
 
-	#nav a:hover {
-		background-color: transparent;
-	}
 
 	/* Articles */
 
@@ -2583,9 +2581,11 @@ body>article {
 
 /* Timeline Container */
 .timeline {
+
 	background: var(--primary-color);
 	margin: 20px auto;
 	padding: 20px;
+
 }
 
 /* Outer Layer with the timeline border */
@@ -2599,7 +2599,7 @@ body>article {
 	margin: 0 0 20px 20px;
 	padding: 10px;
 	background: #333;
-	color: gray;
+	color: whitesmoke;
 	border-radius: 8px;
 	max-width: auto;
 }
@@ -2613,7 +2613,7 @@ body>article {
 
 /* Title of the card */
 .title {
-	color: orangered;
+	color: #3BA8D3;
 	position: relative;
 }
 
@@ -2626,5 +2626,7 @@ body>article {
 	background: white;
 	border-radius: 999px;
 	left: -40.5px;
-	border: 5px solid orangered;
+	border: 5px solid red;
 }
+
+.tab { margin-left: 1.5em; }
