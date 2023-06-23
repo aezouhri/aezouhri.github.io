@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://aezouhri.github.io/",
+  "homepage": "https://aezouhri.github.io/react-gh-pages",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
