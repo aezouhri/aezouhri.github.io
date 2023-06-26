@@ -1,5 +1,5 @@
 /* Change this file to get your personal Porfolio */
-import resume from "../src/assests/images/Adnane Ezouhri Resume.pdf";
+import resume from "./assests/images/Adnane Ezouhri Resume.pdf";
 // Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
