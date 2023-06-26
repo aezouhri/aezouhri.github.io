@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06cf93fb.css",
-    "main.js": "/static/js/main.85b05991.js",
+    "main.css": "/static/css/main.4d43cf7c.css",
+    "main.js": "/static/js/main.d8302cd0.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -25,6 +25,7 @@
     "static/media/contactMail.png": "/static/media/contactMail.d4c9ac42fba95158a55c.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/MS_logo.png": "/static/media/MS_logo.1cf2e34f071530ee33bf.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.8204bba7daa4eedf644b.png",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.be1b6b9bacd5f2fb1c7e.png",
@@ -35,6 +36,9 @@
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/farrpro_logo.png": "/static/media/farrpro_logo.f54fd2222e5893f6d137.png",
+    "static/media/collins_logo.png": "/static/media/collins_logo.263b6c23d09a0c046f50.png",
+    "static/media/uiowa_logo.png": "/static/media/uiowa_logo.1551891c53ff6564a83e.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -53,6 +57,7 @@
     "static/media/pwa.png": "/static/media/pwa.5107022416df1293dd12.png",
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/arconic_logo.png": "/static/media/arconic_logo.184165ae6a0152ff51a2.png",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/feelingProud.svg": "/static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
@@ -65,11 +70,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.06cf93fb.css.map": "/static/css/main.06cf93fb.css.map",
-    "main.85b05991.js.map": "/static/js/main.85b05991.js.map"
+    "main.4d43cf7c.css.map": "/static/css/main.4d43cf7c.css.map",
+    "main.d8302cd0.js.map": "/static/js/main.d8302cd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.06cf93fb.css",
-    "static/js/main.85b05991.js"
+    "static/css/main.4d43cf7c.css",
+    "static/js/main.d8302cd0.js"
   ]
 }
