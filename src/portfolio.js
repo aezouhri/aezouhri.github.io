@@ -1,5 +1,5 @@
 /* Change this file to get your personal Porfolio */
-
+import resume from "../src/assests/images/Adnane Ezouhri Resume.pdf";
 // Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
@@ -25,7 +25,7 @@ const greeting = {
     "A passionate individual always eager to take on new challenges and explore new horizons.",
   portfolio_repository: "https://github.com/aezouhri/aezouhri.github.io",
   githubProfile: "https://github.com/aezouhri",
-  resumeLink: "assets/images/Adnane Ezouhri Resume.pdf",
+  resumeLink: resume,
 };
 
 const socialMediaLinks = [

@@ -47,7 +47,7 @@ class Contact extends Component {
                 <div className="resume-btn-div">
                   <Button
                     text="See My Resume"
-                    href={"assets/images/Adnane Ezouhri Resume.pdf"}
+                    href={greeting.resumeLink}
                     theme={theme}
                   />
                 </div>
