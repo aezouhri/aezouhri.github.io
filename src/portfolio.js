@@ -8,8 +8,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Adnane's Portfolio",
-  description:
-    "A passionate Software Engineer eager to take on new challenges",
+  description: "A passionate Software Engineer eager to take on new challenges",
   og: {
     title: "Adnane Ezouhri Portfolio",
     type: "website",
@@ -26,11 +25,10 @@ const greeting = {
     "A passionate individual always eager to take on new challenges and explore new horizons.",
   portfolio_repository: "https://github.com/aezouhri/aezouhri.github.io",
   githubProfile: "https://github.com/aezouhri",
-  resumeLink: "assests/images/Adnane Ezouhri Resume.pdf"
+  resumeLink: "/assests/images/Adnane Ezouhri Resume.pdf",
 };
 
 const socialMediaLinks = [
-
   {
     name: "Github",
     link: "https://github.com/aezouhri",
@@ -225,9 +223,7 @@ const degrees = {
 };
 
 const certifications = {
-  certifications: [
-   
-  ],
+  certifications: [],
 };
 
 // Experience Page
@@ -287,30 +283,25 @@ const experience = {
           logo_path: "github_logo.png",
           duration: "July 2019 - PRESENT",
           location: "Iowa City, IA",
-          description:
-            "",
+          description: "",
           color: "#181717",
         },
         {
           title: "Country Delegate",
           company: "Model United Nations",
-          company_url:
-            "https://www.un.org/en/mun",
+          company_url: "https://www.un.org/en/mun",
           logo_path: "dsc_logo.png",
           location: "Madrid, Spain",
-          description:
-            "",
+          description: "",
           color: "#0C9D58",
         },
         {
           title: "Country Delegate",
           company: "Model United Nations",
-          company_url:
-            "https://www.un.org/en/mun",
+          company_url: "https://www.un.org/en/mun",
           logo_path: "dsc_logo.png",
           location: "Geneva, Switzerland",
-          description:
-            "",
+          description: "",
           color: "#0C9D58",
         },
       ],
@@ -325,7 +316,6 @@ const projectsHeader = {
     "My projects makes use of vast variety of latest technology tools. My best experience is to create fun and entertaining programs and web applications",
   avatar_image_path: "projects_image.svg",
 };
-
 
 // Contact Page
 const contactPageData = {

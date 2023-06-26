@@ -47,7 +47,6 @@ class Contact extends Component {
                 <div className="resume-btn-div">
                   <Button
                     text="See My Resume"
-                    newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}
                   />
@@ -59,9 +58,9 @@ class Contact extends Component {
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
                 <img
-											src={require(`../../assests/images/phone_call.svg`)}
-											alt=""
-										/>
+                  src={require(`../../assests/images/phone_call.svg`)}
+                  alt=""
+                />
                 <AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">
