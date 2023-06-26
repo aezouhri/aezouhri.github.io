@@ -25,7 +25,7 @@ const greeting = {
     "A passionate individual always eager to take on new challenges and explore new horizons.",
   portfolio_repository: "https://github.com/aezouhri/aezouhri.github.io",
   githubProfile: "https://github.com/aezouhri",
-  resumeLink: "/assests/images/Adnane Ezouhri Resume.pdf",
+  resumeLink: "../src/assets/images/Adnane Ezouhri Resume.pdf",
 };
 
 const socialMediaLinks = [
