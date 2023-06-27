@@ -231,11 +231,62 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with different size companies ranging from start ups to leaders in their field, I have mainly been entitled with software responsibilites in my employment",
+    "I have worked with different size companies ranging from start ups to leaders in their field, I have mainly been entitled with software responsibilites in my technical employment. While also being trusted with leadership and responsibility of team management",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Internships, Volunteership",
+      title: "Work",
+      work: true,
+      experiences: [
+        {
+          title: "Teaching Assistant",
+          company: "University of Iowa College of Engineering",
+          company_url: "https://ece.engineering.uiowa.edu/",
+          logo_path: "uiowa_logo.png",
+          duration: "Aug 2023 - Dec 2023",
+          location: "Iowa City, IA",
+          description:
+            "Taught ECE:5800 Software Engineering Language and Tools, assisting students in their understanding of SaaS application and industry level coding practices, held office hours to assist students with weekly coding assignements",
+          color: "#fc1f20",
+        },
+        {
+          title: "Teaching Assistant",
+          company: "University of Iowa College of Engineering",
+          company_url: "https://ece.engineering.uiowa.edu/",
+          logo_path: "uiowa_logo.png",
+          duration: "Aug 2021 - May 2023",
+          location: "Davenport, IA",
+          description:
+            "Taught ECE:2220 Electrical Circuits, assisting over 120 students in their understanding of RCL circuits in AC and DC, conducted peer reviews and held office hours to help students assimialte and practice the material taught in class",
+          color: "#fc1f20",
+        },
+        {
+          title: "Safety Ambassador",
+          company: "University of Iowa Hospital and Clinic",
+          company_url:
+            "https://medcom.uiowa.edu/theloop/news/the-first-contact-why-safety-ambassadors-are-important",
+          logo_path: "uihc_logo.jpg",
+          duration: "May 2020 - May 2021",
+          location: "Iowa City, IA",
+          description:
+            "First line of defense at the UIHC during the Covid-19 Pandemic. Screened and assisted patients throughout their visit at the hospital and clinics. Elected one of the best safety amabassador thanks to being polyglote",
+          color: "#fc1f20",
+        },
+        {
+          title: "Student IT",
+          company: "University of Iowa Colleg of Public Health",
+          company_url: "https://www.public-health.uiowa.edu/it/",
+          logo_path: "uiowacph_logo.png",
+          duration: "May 2020 - May 2021",
+          location: "Iowa City, IA",
+          description:
+            "First line of defense at the UIHC during the Covid-19 Pandemic. Screened and assisted patients throughout their visit at the hospital and clinics. Elected one of the best safety amabassador thanks to being polyglote",
+          color: "#fc1f20",
+        },
+      ],
+    },
+    {
+      title: "Internships",
       work: true,
       experiences: [
         {
@@ -279,29 +330,33 @@ const experience = {
         {
           title: "International Student Ambassador",
           company: "University of Iowa",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
+          company_url:
+            "https://admissions.uiowa.edu/international-student-ambassadors",
+          logo_path: "uiowa_logo.png",
+          duration: "Aug 2019 - May 2020",
           location: "Iowa City, IA",
-          description: "",
+          description:
+            "Represented the University of Iowa on the international scene to assist prospective international students with any of their inquiries",
           color: "#181717",
         },
         {
           title: "Country Delegate",
           company: "Model United Nations",
-          company_url: "https://www.un.org/en/mun",
-          logo_path: "dsc_logo.png",
+          company_url: "https://www.numad.eu/",
+          logo_path: "MUN_logo.png",
           location: "Madrid, Spain",
-          description: "",
+          description:
+            "International Politic Affairs: Delegate of Nigeria covering globalization and it's impact and cultural appropriation",
           color: "#0C9D58",
         },
         {
           title: "Country Delegate",
           company: "Model United Nations",
-          company_url: "https://www.un.org/en/mun",
-          logo_path: "dsc_logo.png",
+          company_url: "https://fermun.org/en/fermun-2019-",
+          logo_path: "MUN_logo.png",
           location: "Geneva, Switzerland",
-          description: "",
+          description:
+            "AI & Ethics: Delegate of Belgium debating over the ethical implications of AI technologies and their legal rights",
           color: "#0C9D58",
         },
       ],
