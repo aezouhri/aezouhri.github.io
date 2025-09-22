@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a4a52be.css",
-    "main.js": "/static/js/main.d31c75db.js",
+    "main.css": "/static/css/main.03141310.css",
+    "main.js": "/static/js/main.c440ab8c.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/profile_pic.png": "/static/media/profile_pic.e4b215e8eed8fc86ba0c.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -20,7 +20,6 @@
     "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
-    "static/media/Adnane Ezouhri Resume.pdf": "/static/media/Adnane Ezouhri Resume.38491f6b66d3fe79309f.pdf",
     "static/media/contactMail.png": "/static/media/contactMail.d4c9ac42fba95158a55c.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -66,15 +65,16 @@
     "static/media/data_science.svg": "/static/media/data_science.9dcadb158ebe250997f6.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
+    "static/media/Adnane Ezouhri Resume.pdf": "/static/media/Adnane Ezouhri Resume.8ce369c6c1d8e62d33c3.pdf",
     "index.html": "/index.html",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.1a4a52be.css.map": "/static/css/main.1a4a52be.css.map",
-    "main.d31c75db.js.map": "/static/js/main.d31c75db.js.map"
+    "main.03141310.css.map": "/static/css/main.03141310.css.map",
+    "main.c440ab8c.js.map": "/static/js/main.c440ab8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a4a52be.css",
-    "static/js/main.d31c75db.js"
+    "static/css/main.03141310.css",
+    "static/js/main.c440ab8c.js"
   ]
 }
