@@ -1,1 +1,1155 @@
-{"data":[{"id":"PR_kwDOHsflbc5TysAo","title":"Deploy React app to GitHub Pages","url":"https://github.com/aezouhri/aezouhri.github.io/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2023-06-23T23:14:33Z","number":1,"changedFiles":1873,"additions":143,"deletions":220222,"baseRepository":{"name":"aezouhri.github.io","url":"https://github.com/aezouhri/aezouhri.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","login":"aezouhri","url":"https://github.com/aezouhri"}}},{"id":"PR_kwDOI6Mpvs5MYVrE","title":"Adnane link","url":"https://github.com/Iron-Men-2023/OmniLens/pull/34","state":"OPEN","mergedBy":null,"createdAt":"2023-03-19T01:57:19Z","number":34,"changedFiles":14,"additions":327,"deletions":46,"baseRepository":{"name":"OmniLens","url":"https://github.com/Iron-Men-2023/OmniLens","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOI6Mpvs5K5EgL","title":"Initial commit from work done previously","url":"https://github.com/Iron-Men-2023/OmniLens/pull/13","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2023-02-28T03:59:42Z","number":13,"changedFiles":45,"additions":2872,"deletions":0,"baseRepository":{"name":"OmniLens","url":"https://github.com/Iron-Men-2023/OmniLens","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOIWKIts5FEc95","title":"Adnane mail fix","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/73","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4","url":"https://github.com/saanbe16","login":"saanbe16"},"createdAt":"2022-12-11T08:40:36Z","number":73,"changedFiles":13,"additions":384,"deletions":168,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIWKIts5E0Hcl","title":"Adnane mailer","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/48","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-12-08T17:23:24Z","number":48,"changedFiles":25,"additions":437,"deletions":451,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIWKIts5EPgO6","title":"#3rd Party Auth implementation using devise (student)","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/39","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-12-04T11:21:54Z","number":39,"changedFiles":37,"additions":954,"deletions":164,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIbGvQM5EAbLl","title":"Fixed icons at the bottom of Adnane page.","url":"https://github.com/Iron-Men-2023/Lab3/pull/9","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-11-30T22:46:43Z","number":9,"changedFiles":29,"additions":12145,"deletions":738,"baseRepository":{"name":"Lab3","url":"https://github.com/Iron-Men-2023/Lab3","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOIWKIts5D2Eq3","title":"Adnane auth","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/32","state":"CLOSED","mergedBy":null,"createdAt":"2022-11-28T23:37:43Z","number":32,"changedFiles":238,"additions":6452,"deletions":195,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIbGvQM5DvCsZ","title":"Adnane branch","url":"https://github.com/Iron-Men-2023/Lab3/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-11-26T07:03:13Z","number":7,"changedFiles":22,"additions":1279,"deletions":6,"baseRepository":{"name":"Lab3","url":"https://github.com/Iron-Men-2023/Lab3","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOIbGvQM5Drs7s","title":"Added a few sections to my page.","url":"https://github.com/Iron-Men-2023/Lab3/pull/5","state":"CLOSED","mergedBy":null,"createdAt":"2022-11-25T05:13:54Z","number":5,"changedFiles":12,"additions":3979,"deletions":3621,"baseRepository":{"name":"Lab3","url":"https://github.com/Iron-Men-2023/Lab3","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOIbGvQM5DrlAI","title":"About 70% done","url":"https://github.com/Iron-Men-2023/Lab3/pull/4","state":"CLOSED","mergedBy":null,"createdAt":"2022-11-25T04:03:05Z","number":4,"changedFiles":12,"additions":3698,"deletions":3616,"baseRepository":{"name":"Lab3","url":"https://github.com/Iron-Men-2023/Lab3","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOIWKIts5Ck4wW","title":"Adnane create account feature completed.","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/14","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-11-10T01:22:33Z","number":14,"changedFiles":18,"additions":40999,"deletions":195,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIWKIts5CRMCO","title":"Adnane account creation page","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-11-05T22:42:14Z","number":4,"changedFiles":6,"additions":505,"deletions":3,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIWKIts5CRAR4","title":"First few features","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-11-05T18:35:17Z","number":3,"changedFiles":10,"additions":293,"deletions":4,"baseRepository":{"name":"selt2022_teamprojects-team-6","url":"https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/46638529?v=4","login":"UIOWAjohnsonhj","url":"https://github.com/UIOWAjohnsonhj"}}},{"id":"PR_kwDOIOPVxs5A4I39","title":"Adnane from joslin","url":"https://github.com/JoslinSome/SoundG8/pull/15","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-10-16T17:48:09Z","number":15,"changedFiles":2,"additions":18,"deletions":22,"baseRepository":{"name":"SoundG8","url":"https://github.com/JoslinSome/SoundG8","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4","login":"JoslinSome","url":"https://github.com/JoslinSome"}}},{"id":"PR_kwDOIOPVxs5A3TDN","title":"Adnane sql test","url":"https://github.com/JoslinSome/SoundG8/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-10-15T20:15:23Z","number":4,"changedFiles":5302,"additions":644381,"deletions":35,"baseRepository":{"name":"SoundG8","url":"https://github.com/JoslinSome/SoundG8","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4","login":"JoslinSome","url":"https://github.com/JoslinSome"}}},{"id":"PR_kwDOH85jgs4_tbLe","title":"Adnane branch","url":"https://github.com/Iron-Men-2023/Lab1/pull/15","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-09-27T16:29:40Z","number":15,"changedFiles":5,"additions":174,"deletions":2195,"baseRepository":{"name":"Lab1","url":"https://github.com/Iron-Men-2023/Lab1","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOH85jgs4_ZQG8","title":"New Arduino Code","url":"https://github.com/Iron-Men-2023/Lab1/pull/7","state":"CLOSED","mergedBy":null,"createdAt":"2022-09-22T03:16:35Z","number":7,"changedFiles":6,"additions":183,"deletions":2332,"baseRepository":{"name":"Lab1","url":"https://github.com/Iron-Men-2023/Lab1","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOH85jgs4_SeZ2","title":"Create Temperature_Sensor.ino","url":"https://github.com/Iron-Men-2023/Lab1/pull/6","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4","url":"https://github.com/JoslinSome","login":"JoslinSome"},"createdAt":"2022-09-20T16:16:58Z","number":6,"changedFiles":1,"additions":50,"deletions":0,"baseRepository":{"name":"Lab1","url":"https://github.com/Iron-Men-2023/Lab1","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}},{"id":"PR_kwDOH85jgs4_Pye2","title":"Adnane branch","url":"https://github.com/Iron-Men-2023/Lab1/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4","url":"https://github.com/aezouhri","login":"aezouhri"},"createdAt":"2022-09-20T06:04:29Z","number":5,"changedFiles":6,"additions":4428,"deletions":0,"baseRepository":{"name":"Lab1","url":"https://github.com/Iron-Men-2023/Lab1","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/113004924?v=4","login":"Iron-Men-2023","url":"https://github.com/Iron-Men-2023"}}}],"open":1,"closed":4,"merged":15,"totalCount":20}
+{
+  "closed": 6,
+  "data": [
+    {
+      "id": "PR_kwDOLIsDbc5tTXyu",
+      "title": "New Dashboard and Task Break fix",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/233",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-04-22T05:45:42Z",
+      "number": 233,
+      "changedFiles": 4,
+      "additions": 107,
+      "deletions": 215,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5tFY3e",
+      "title": "Dashboard elements",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/226",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-04-18T18:41:03Z",
+      "number": 226,
+      "changedFiles": 18,
+      "additions": 736,
+      "deletions": 404,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5s-L58",
+      "title": "White/Black list feature improvement",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/223",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-04-17T20:15:34Z",
+      "number": 223,
+      "changedFiles": 8,
+      "additions": 571,
+      "deletions": 154,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5smu3s",
+      "title": "Tests enhancement",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/216",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-04-14T19:43:22Z",
+      "number": 216,
+      "changedFiles": 19,
+      "additions": 1146,
+      "deletions": 147,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5rQVtM",
+      "title": "Book detail pop up",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/168",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-03-31T17:26:50Z",
+      "number": 168,
+      "changedFiles": 6,
+      "additions": 277,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5rQORk",
+      "title": "Display the user's book preference",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/167",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-03-31T16:05:09Z",
+      "number": 167,
+      "changedFiles": 9,
+      "additions": 199,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5qbWn5",
+      "title": "Improved homepage styling",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/142",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-03-21T23:06:15Z",
+      "number": 142,
+      "changedFiles": 14,
+      "additions": 202,
+      "deletions": 21925,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5p4EeH",
+      "title": "Page navigation security patch",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/139",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-03-18T00:14:01Z",
+      "number": 139,
+      "changedFiles": 4,
+      "additions": 70,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5pCq11",
+      "title": "Tasks page feature implementation (Break Task)",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/135",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-03-08T04:55:37Z",
+      "number": 135,
+      "changedFiles": 9,
+      "additions": 229,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5oeTnA",
+      "title": "Rewards page, reward history and reward shop",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/129",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71299314?u=52dce7b8e1286f8d622bc5f43c3b2dd12b88283f&v=4",
+        "url": "https://github.com/bdesollar",
+        "login": "bdesollar"
+      },
+      "createdAt": "2024-03-02T05:15:26Z",
+      "number": 129,
+      "changedFiles": 9,
+      "additions": 417,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5oOk1Y",
+      "title": "Filling work and reading preferences",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/127",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-28T22:45:02Z",
+      "number": 127,
+      "changedFiles": 2,
+      "additions": 157,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5nuBOQ",
+      "title": "Fixing crash on login",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/96",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-23T05:48:19Z",
+      "number": 96,
+      "changedFiles": 1,
+      "additions": 14,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5nr527",
+      "title": "Fill in and Update Frequency of Tasks",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/94",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2024-02-22T19:25:19Z",
+      "number": 94,
+      "changedFiles": 2,
+      "additions": 105,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5nmfnP",
+      "title": "Improve web code coverage",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/92",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-22T05:08:52Z",
+      "number": 92,
+      "changedFiles": 10,
+      "additions": 181,
+      "deletions": 110,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5nl3VT",
+      "title": "Update Preferences when logging in",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/90",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-22T01:57:18Z",
+      "number": 90,
+      "changedFiles": 8,
+      "additions": 164,
+      "deletions": 73,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5nksbs",
+      "title": "Preference update on sign up",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/89",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-21T20:47:25Z",
+      "number": 89,
+      "changedFiles": 30,
+      "additions": 1406,
+      "deletions": 432,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5mc2nl",
+      "title": "Web: Account creation",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/59",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-09T06:43:31Z",
+      "number": 59,
+      "changedFiles": 9,
+      "additions": 8833,
+      "deletions": 1327,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5mMPEF",
+      "title": "Adnane login 2",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/52",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-06T21:11:15Z",
+      "number": 52,
+      "changedFiles": 9,
+      "additions": 882,
+      "deletions": 81,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5mEVif",
+      "title": "Login Page",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/51",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-05T20:04:25Z",
+      "number": 51,
+      "changedFiles": 16,
+      "additions": 6897,
+      "deletions": 6147,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5l9_MG",
+      "title": "Test coverage",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/49",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-02-05T02:19:53Z",
+      "number": 49,
+      "changedFiles": 6,
+      "additions": 27,
+      "deletions": 38,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5lumXe",
+      "title": "Modified .gitignore",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2024-02-01T17:11:31Z",
+      "number": 24,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5lPHVc",
+      "title": "Adnane init",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2024-01-27T19:56:26Z",
+      "number": 3,
+      "changedFiles": 27,
+      "additions": 18612,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLIsDbc5lNpy7",
+      "title": "Adnane init",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/pull/2",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-01-27T05:40:13Z",
+      "number": 2,
+      "changedFiles": 26,
+      "additions": 18591,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "login": "uiowaSEP2024",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKRiOoM5bD-Ps",
+      "title": "Update README.md to reflect the app capabilities.",
+      "url": "https://github.com/JoslinSome/Notably/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44876465?u=c273f8eb905db012a07d40416a866a37d212f06b&v=4",
+        "url": "https://github.com/mbrzus",
+        "login": "mbrzus"
+      },
+      "createdAt": "2023-09-24T17:27:49Z",
+      "number": 42,
+      "changedFiles": 1,
+      "additions": 52,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Notably",
+        "url": "https://github.com/JoslinSome/Notably",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4",
+          "login": "JoslinSome",
+          "url": "https://github.com/JoslinSome"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHsflbc5T9QFS",
+      "title": "Update LICENSE",
+      "url": "https://github.com/aezouhri/aezouhri.github.io/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2023-06-26T19:37:01Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "aezouhri.github.io",
+        "url": "https://github.com/aezouhri/aezouhri.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+          "login": "aezouhri",
+          "url": "https://github.com/aezouhri"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHsflbc5T85Dd",
+      "title": "Having source code on main",
+      "url": "https://github.com/aezouhri/aezouhri.github.io/pull/3",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-06-26T18:36:18Z",
+      "number": 3,
+      "changedFiles": 15,
+      "additions": 77,
+      "deletions": 4111,
+      "baseRepository": {
+        "name": "aezouhri.github.io",
+        "url": "https://github.com/aezouhri/aezouhri.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+          "login": "aezouhri",
+          "url": "https://github.com/aezouhri"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHsflbc5T83Uo",
+      "title": "Made changes to education, projects and contact",
+      "url": "https://github.com/aezouhri/aezouhri.github.io/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2023-06-26T18:32:27Z",
+      "number": 2,
+      "changedFiles": 15,
+      "additions": 19,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "aezouhri.github.io",
+        "url": "https://github.com/aezouhri/aezouhri.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+          "login": "aezouhri",
+          "url": "https://github.com/aezouhri"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHsflbc5TysAo",
+      "title": "Deploy React app to GitHub Pages",
+      "url": "https://github.com/aezouhri/aezouhri.github.io/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2023-06-23T23:14:33Z",
+      "number": 1,
+      "changedFiles": 1873,
+      "additions": 143,
+      "deletions": 220222,
+      "baseRepository": {
+        "name": "aezouhri.github.io",
+        "url": "https://github.com/aezouhri/aezouhri.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+          "login": "aezouhri",
+          "url": "https://github.com/aezouhri"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI6Mpvs5MYVrE",
+      "title": "Adnane link",
+      "url": "https://github.com/Iron-Men-2023/OmniLens/pull/34",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-03-19T01:57:19Z",
+      "number": 34,
+      "changedFiles": 14,
+      "additions": 327,
+      "deletions": 46,
+      "baseRepository": {
+        "name": "OmniLens",
+        "url": "https://github.com/Iron-Men-2023/OmniLens",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI6Mpvs5K5EgL",
+      "title": "Initial commit from work done previously",
+      "url": "https://github.com/Iron-Men-2023/OmniLens/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2023-02-28T03:59:42Z",
+      "number": 13,
+      "changedFiles": 45,
+      "additions": 2872,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "OmniLens",
+        "url": "https://github.com/Iron-Men-2023/OmniLens",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5FEc95",
+      "title": "Adnane mail fix",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/73",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+        "url": "https://github.com/saanbe16",
+        "login": "saanbe16"
+      },
+      "createdAt": "2022-12-11T08:40:36Z",
+      "number": 73,
+      "changedFiles": 13,
+      "additions": 384,
+      "deletions": 168,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5E0Hcl",
+      "title": "Adnane mailer",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/48",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-12-08T17:23:24Z",
+      "number": 48,
+      "changedFiles": 25,
+      "additions": 437,
+      "deletions": 451,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5EPgO6",
+      "title": "#3rd Party Auth implementation using devise (student)",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-12-04T11:21:54Z",
+      "number": 39,
+      "changedFiles": 37,
+      "additions": 954,
+      "deletions": 164,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIbGvQM5EAbLl",
+      "title": "Fixed icons at the bottom of Adnane page.",
+      "url": "https://github.com/Iron-Men-2023/Lab3/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-11-30T22:46:43Z",
+      "number": 9,
+      "changedFiles": 29,
+      "additions": 12145,
+      "deletions": 738,
+      "baseRepository": {
+        "name": "Lab3",
+        "url": "https://github.com/Iron-Men-2023/Lab3",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5D2Eq3",
+      "title": "Adnane auth",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/32",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-11-28T23:37:43Z",
+      "number": 32,
+      "changedFiles": 238,
+      "additions": 6452,
+      "deletions": 195,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIbGvQM5DvCsZ",
+      "title": "Adnane branch",
+      "url": "https://github.com/Iron-Men-2023/Lab3/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-11-26T07:03:13Z",
+      "number": 7,
+      "changedFiles": 22,
+      "additions": 1279,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Lab3",
+        "url": "https://github.com/Iron-Men-2023/Lab3",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIbGvQM5Drs7s",
+      "title": "Added a few sections to my page.",
+      "url": "https://github.com/Iron-Men-2023/Lab3/pull/5",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-11-25T05:13:54Z",
+      "number": 5,
+      "changedFiles": 12,
+      "additions": 3979,
+      "deletions": 3621,
+      "baseRepository": {
+        "name": "Lab3",
+        "url": "https://github.com/Iron-Men-2023/Lab3",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIbGvQM5DrlAI",
+      "title": "About 70% done",
+      "url": "https://github.com/Iron-Men-2023/Lab3/pull/4",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-11-25T04:03:05Z",
+      "number": 4,
+      "changedFiles": 12,
+      "additions": 3698,
+      "deletions": 3616,
+      "baseRepository": {
+        "name": "Lab3",
+        "url": "https://github.com/Iron-Men-2023/Lab3",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5Ck4wW",
+      "title": "Adnane create account feature completed.",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-11-10T01:22:33Z",
+      "number": 14,
+      "changedFiles": 18,
+      "additions": 40999,
+      "deletions": 195,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5CRMCO",
+      "title": "Adnane account creation page",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-11-05T22:42:14Z",
+      "number": 4,
+      "changedFiles": 6,
+      "additions": 505,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWKIts5CRAR4",
+      "title": "First few features",
+      "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-11-05T18:35:17Z",
+      "number": 3,
+      "changedFiles": 10,
+      "additions": 293,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "selt2022_teamprojects-team-6",
+        "url": "https://github.com/UIOWAjohnsonhj/selt2022_teamprojects-team-6",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46638529?v=4",
+          "login": "UIOWAjohnsonhj",
+          "url": "https://github.com/UIOWAjohnsonhj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIOPVxs5A4I39",
+      "title": "Adnane from joslin",
+      "url": "https://github.com/JoslinSome/SoundG8/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-10-16T17:48:09Z",
+      "number": 15,
+      "changedFiles": 2,
+      "additions": 18,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "SoundG8",
+        "url": "https://github.com/JoslinSome/SoundG8",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4",
+          "login": "JoslinSome",
+          "url": "https://github.com/JoslinSome"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIOPVxs5A3TDN",
+      "title": "Adnane sql test",
+      "url": "https://github.com/JoslinSome/SoundG8/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-10-15T20:15:23Z",
+      "number": 4,
+      "changedFiles": 5302,
+      "additions": 644381,
+      "deletions": 35,
+      "baseRepository": {
+        "name": "SoundG8",
+        "url": "https://github.com/JoslinSome/SoundG8",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4",
+          "login": "JoslinSome",
+          "url": "https://github.com/JoslinSome"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH85jgs4_tbLe",
+      "title": "Adnane branch",
+      "url": "https://github.com/Iron-Men-2023/Lab1/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-09-27T16:29:40Z",
+      "number": 15,
+      "changedFiles": 5,
+      "additions": 174,
+      "deletions": 2195,
+      "baseRepository": {
+        "name": "Lab1",
+        "url": "https://github.com/Iron-Men-2023/Lab1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH85jgs4_ZQG8",
+      "title": "New Arduino Code",
+      "url": "https://github.com/Iron-Men-2023/Lab1/pull/7",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-09-22T03:16:35Z",
+      "number": 7,
+      "changedFiles": 6,
+      "additions": 183,
+      "deletions": 2332,
+      "baseRepository": {
+        "name": "Lab1",
+        "url": "https://github.com/Iron-Men-2023/Lab1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH85jgs4_SeZ2",
+      "title": "Create Temperature_Sensor.ino",
+      "url": "https://github.com/Iron-Men-2023/Lab1/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69180570?u=e1afde790c402c94962bd3eb5dba916b3c408a19&v=4",
+        "url": "https://github.com/JoslinSome",
+        "login": "JoslinSome"
+      },
+      "createdAt": "2022-09-20T16:16:58Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 50,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Lab1",
+        "url": "https://github.com/Iron-Men-2023/Lab1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH85jgs4_Pye2",
+      "title": "Adnane branch",
+      "url": "https://github.com/Iron-Men-2023/Lab1/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+        "url": "https://github.com/aezouhri",
+        "login": "aezouhri"
+      },
+      "createdAt": "2022-09-20T06:04:29Z",
+      "number": 5,
+      "changedFiles": 6,
+      "additions": 4428,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Lab1",
+        "url": "https://github.com/Iron-Men-2023/Lab1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113004924?v=4",
+          "login": "Iron-Men-2023",
+          "url": "https://github.com/Iron-Men-2023"
+        }
+      }
+    }
+  ],
+  "merged": 40,
+  "open": 1,
+  "totalCount": 47
+}

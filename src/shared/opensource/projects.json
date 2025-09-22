@@ -1,1 +1,93 @@
-{"data":[{"id":"R_kgDOHsflbQ","name":"aezouhri.github.io","createdAt":"2022-07-21T15:02:59Z","url":"https://github.com/aezouhri/aezouhri.github.io","description":"Personal website.","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDOH2khxw","name":"VaccineProject","createdAt":"2022-08-20T16:42:17Z","url":"https://github.com/aezouhri/VaccineProject","description":"Vaccine Comfirmation Project that was made during a Uiowa Hackathon for the Class Software Design","isFork":true,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"Java","iconifyClass":"logos-java"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDOHwaQNg","name":"Smart-GreenHouse","createdAt":"2022-08-02T14:07:36Z","url":"https://github.com/aezouhri/Smart-GreenHouse","description":null,"isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"R_kgDOHWateA","name":"Tesla-Model-DIY","createdAt":"2022-05-17T13:41:41Z","url":"https://github.com/aezouhri/Tesla-Model-DIY","description":null,"isFork":true,"languages":[]},{"id":"R_kgDOGf3lNw","name":"Morse_Code_translator","createdAt":"2021-12-08T00:44:30Z","url":"https://github.com/aezouhri/Morse_Code_translator","description":"GUI program that converts Alphabet letters to Morse Code and vice versa.","isFork":false,"languages":[{"name":"Java","iconifyClass":"logos-java"}]}]}
+{
+  "data": [
+    {
+      "id": "R_kgDOHsflbQ",
+      "name": "aezouhri.github.io",
+      "createdAt": "2022-07-21T15:02:59Z",
+      "url": "https://github.com/aezouhri/aezouhri.github.io",
+      "description": "Personal website.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOH2khxw",
+      "name": "VaccineProject",
+      "createdAt": "2022-08-20T16:42:17Z",
+      "url": "https://github.com/aezouhri/VaccineProject",
+      "description": "Vaccine Comfirmation Project that was made during a Uiowa Hackathon for the Class Software Design",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHwaQNg",
+      "name": "Smart-GreenHouse",
+      "createdAt": "2022-08-02T14:07:36Z",
+      "url": "https://github.com/aezouhri/Smart-GreenHouse",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHWateA",
+      "name": "Tesla-Model-DIY",
+      "createdAt": "2022-05-17T13:41:41Z",
+      "url": "https://github.com/aezouhri/Tesla-Model-DIY",
+      "description": null,
+      "isFork": true,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOGf3lNw",
+      "name": "Morse_Code_translator",
+      "createdAt": "2021-12-08T00:44:30Z",
+      "url": "https://github.com/aezouhri/Morse_Code_translator",
+      "description": "GUI program that converts Alphabet letters to Morse Code and vice versa.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    }
+  ]
+}

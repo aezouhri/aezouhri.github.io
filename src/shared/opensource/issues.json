@@ -1,1 +1,110 @@
-{"data":[],"open":0,"closed":0,"totalCount":0}
+{
+  "closed": 4,
+  "data": [
+    {
+      "id": "I_kwDOLIsDbc6DNWad",
+      "closed": true,
+      "title": "Homepage styling improvement",
+      "createdAt": "2024-03-21T22:38:21Z",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/issues/141",
+      "number": 141,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+            "name": "Adnane Ezouhri",
+            "url": "https://github.com/aezouhri"
+          }
+        ]
+      },
+      "repository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "login": "uiowaSEP2024",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLIsDbc6ClDob",
+      "closed": true,
+      "title": "Web: Implement Authorization Checks on URL Navigation",
+      "createdAt": "2024-03-17T16:30:15Z",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/issues/138",
+      "number": 138,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+            "name": "Adnane Ezouhri",
+            "url": "https://github.com/aezouhri"
+          }
+        ]
+      },
+      "repository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "login": "uiowaSEP2024",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLIsDbc6ALJJC",
+      "closed": true,
+      "title": "Bug: App crash on wrong credentials",
+      "createdAt": "2024-02-23T05:44:32Z",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/issues/95",
+      "number": 95,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "login": "uiowaSEP2024",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLIsDbc5-FgGi",
+      "closed": true,
+      "title": "Web: update preferences",
+      "createdAt": "2024-02-02T17:06:19Z",
+      "url": "https://github.com/uiowaSEP2024/001_DisAv/issues/47",
+      "number": 47,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/56485548?u=086697e79edd5eb2a4dfbdea3d391b870f8ff26f&v=4",
+            "name": "Joslin Some",
+            "url": "https://github.com/saanbe16"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/95724930?u=79038c4f7e265daf68a3cd0356c63d7504e55a20&v=4",
+            "name": "Adnane Ezouhri",
+            "url": "https://github.com/aezouhri"
+          }
+        ]
+      },
+      "repository": {
+        "name": "001_DisAv",
+        "url": "https://github.com/uiowaSEP2024/001_DisAv",
+        "owner": {
+          "login": "uiowaSEP2024",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157440487?v=4",
+          "url": "https://github.com/uiowaSEP2024"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "totalCount": 4
+}
