@@ -1,251 +1,36 @@
+// scripts/fetch_projects.mjs
 import fetch from "node-fetch";
-import fs from "fs";
+import fs from "fs/promises";
+import path from "path";
 import dotenv from "dotenv";
 
 dotenv.config();
 
-const openSource = {
-  githubConvertedToken: process.env.GITHUB_TOKEN,
-  githubUserName: process.env.GITHUB_USERNAME,
-};
+// ---------- Inline repo list (edit this) ----------
+const REPOS = [
+  { owner: "aezouhri", name: "Autolingo" },
+  { owner: "aezouhri", name: "Notably" },
+  { owner: "aezouhri", name: "SignFlow" },
+  { owner: "Iron-Men-2023", name: "Omnilens" },
+  { owner: "aezouhri", name: "Ad-vertisement" },
+];
 
-const query_pr = {
-  query: `
-	query {
-	  user(login: "${openSource.githubUserName}"){
-	    pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}){
-      totalCount
-      nodes{
-        id
-        title
-        url
-        state
-	      mergedBy {
-	          avatarUrl
-	          url
-	          login
-	      }
-	      createdAt
-	      number
-        changedFiles
-	      additions
-	      deletions
-        baseRepository {
-	          name
-	          url
-	          owner {
-	            avatarUrl
-	            login
-	            url
-	          }
-	        }
-      }
-    }
-	}
+// ---------- Config ----------
+const TOKEN = process.env.GITHUB_TOKEN;
+if (!TOKEN) {
+  console.error("Missing GITHUB_TOKEN in .env");
+  process.exit(1);
 }
-	`,
-};
-
-const query_issue = {
-  query: `query{
-
-		user(login: "${openSource.githubUserName}") {
-    issues(last: 100, orderBy: {field:CREATED_AT, direction: DESC}){
-      totalCount
-      nodes{
-      	id
-        closed
-        title
-        createdAt
-        url
-        number
-        assignees(first:100){
-          nodes{
-            avatarUrl
-            name
-            url
-          }
-        }
-        repository{
-          name
-          url
-          owner{
-            login
-            avatarUrl
-            url
-          }
-        }
-      }
-    }
-  }
-
-	}`,
-};
-
-const query_org = {
-  query: `query{
-	user(login: "${openSource.githubUserName}") {
-	    repositoriesContributedTo(last: 100){
-	      totalCount
-	      nodes{
-	        owner{
-	          login
-	          avatarUrl
-	          __typename
-	        }
-	      }
-	    }
-	  }
-	}`,
-};
-
-const query_pinned_projects = {
-  query: `
-	query { 
-	  user(login: "${openSource.githubUserName}") { 
-	    pinnedItems(first: 6, types: REPOSITORY) {
-	      totalCount
-	      nodes{
-	        ... on Repository{
-	          id
-		          name
-		          createdAt,
-		          url,
-		          description,
-		          isFork,
-		          languages(first:10){
-		            nodes{
-		              name
-		            }
-		          }
-	        }
-	      }
-		  }
-	  }
-	}
-	`,
-};
-
-const baseUrl = "https://api.github.com/graphql";
-
-const headers = {
+const BASE_URL = "https://api.github.com/graphql";
+const HEADERS = {
   "Content-Type": "application/json",
-  Authorization: "bearer " + openSource.githubConvertedToken,
+  Authorization: `bearer ${TOKEN}`,
 };
+const OUTPUT_PATH = "./src/shared/opensource/projects.json";
+const CONCURRENCY = 6;
 
-fetch(baseUrl, {
-  method: "POST",
-  headers: headers,
-  body: JSON.stringify(query_pr),
-})
-  .then((response) => response.text())
-  .then((txt) => {
-    const data = JSON.parse(txt);
-    var cropped = { data: [] };
-    cropped["data"] = data["data"]["user"]["pullRequests"]["nodes"];
-
-    var open = 0;
-    var closed = 0;
-    var merged = 0;
-    for (var i = 0; i < cropped["data"].length; i++) {
-      if (cropped["data"][i]["state"] === "OPEN") open++;
-      else if (cropped["data"][i]["state"] === "MERGED") merged++;
-      else closed++;
-    }
-
-    cropped["open"] = open;
-    cropped["closed"] = closed;
-    cropped["merged"] = merged;
-    cropped["totalCount"] = cropped["data"].length;
-
-    console.log("Fetching the Pull Request Data.\n");
-    fs.writeFile(
-      "./src/shared/opensource/pull_requests.json",
-      JSON.stringify(cropped),
-      function (err) {
-        if (err) {
-          console.log(err);
-        }
-      }
-    );
-  })
-  .catch((error) => console.log(JSON.stringify(error)));
-
-fetch(baseUrl, {
-  method: "POST",
-  headers: headers,
-  body: JSON.stringify(query_issue),
-})
-  .then((response) => response.text())
-  .then((txt) => {
-    const data = JSON.parse(txt);
-    var cropped = { data: [] };
-    cropped["data"] = data["data"]["user"]["issues"]["nodes"];
-
-    var open = 0;
-    var closed = 0;
-    for (var i = 0; i < cropped["data"].length; i++) {
-      if (cropped["data"][i]["closed"] === false) open++;
-      else closed++;
-    }
-
-    cropped["open"] = open;
-    cropped["closed"] = closed;
-    cropped["totalCount"] = cropped["data"].length;
-
-    console.log("Fetching the Issues Data.\n");
-    fs.writeFile(
-      "./src/shared/opensource/issues.json",
-      JSON.stringify(cropped),
-      function (err) {
-        if (err) {
-          console.log(err);
-        }
-      }
-    );
-  })
-  .catch((error) => console.log(JSON.stringify(error)));
-
-fetch(baseUrl, {
-  method: "POST",
-  headers: headers,
-  body: JSON.stringify(query_org),
-})
-  .then((response) => response.text())
-  .then((txt) => {
-    const data = JSON.parse(txt);
-    const orgs = data["data"]["user"]["repositoriesContributedTo"]["nodes"];
-    var newOrgs = { data: [] };
-    for (var i = 0; i < orgs.length; i++) {
-      var obj = orgs[i]["owner"];
-      if (obj["__typename"] === "Organization") {
-        var flag = 0;
-        for (var j = 0; j < newOrgs["data"].length; j++) {
-          if (JSON.stringify(obj) === JSON.stringify(newOrgs["data"][j])) {
-            flag = 1;
-            break;
-          }
-        }
-        if (flag === 0) {
-          newOrgs["data"].push(obj);
-        }
-      }
-    }
-
-    console.log("Fetching the Contributed Organization Data.\n");
-    fs.writeFile(
-      "./src/shared/opensource/organizations.json",
-      JSON.stringify(newOrgs),
-      function (err) {
-        if (err) {
-          console.log(err);
-        }
-      }
-    );
-  })
-  .catch((error) => console.log(JSON.stringify(error)));
-
-const languages_icons = {
+// ---------- Language → iconifyClass map ----------
+const LANGUAGE_ICONS = {
   Python: "logos-python",
   "Jupyter Notebook": "logos-jupyter",
   HTML: "logos-html-5",
@@ -258,49 +43,122 @@ const languages_icons = {
   PHP: "logos-php",
   Dockerfile: "simple-icons:docker",
   Rust: "logos-rust",
+  "C++": "logos-c-plusplus",
+  "Objective-C++": "logos-c-plusplus",
+  C: "logos-c",
+  TypeScript: "logos-typescript-icon",
 };
 
-fetch(baseUrl, {
-  method: "POST",
-  headers: headers,
-  body: JSON.stringify(query_pinned_projects),
-})
-  .then((response) => response.text())
-  .then((txt) => {
-    const data = JSON.parse(txt);
-    // console.log(txt);
-    const projects = data["data"]["user"]["pinnedItems"]["nodes"];
-    var newProjects = { data: [] };
-    for (var i = 0; i < projects.length; i++) {
-      var obj = projects[i];
-      var langobjs = obj["languages"]["nodes"];
-      var newLangobjs = [];
-      for (var j = 0; j < langobjs.length; j++) {
-        if (langobjs[j]["name"] in languages_icons) {
-          newLangobjs.push({
-            name: langobjs[j]["name"],
-            iconifyClass: languages_icons[langobjs[j]["name"]],
-          });
-        }
+// ---------- Query ----------
+const REPO_QUERY = `
+  query($owner: String!, $name: String!) {
+    repository(owner: $owner, name: $name) {
+      id
+      name
+      createdAt
+      url
+      description
+      isFork
+      languages(first: 10, orderBy: { field: SIZE, direction: DESC }) {
+        nodes { name }
       }
-      obj["languages"] = newLangobjs;
-      newProjects["data"].push(obj);
     }
+  }
+`;
 
-    console.log("Fetching the Pinned Projects Data.\n");
-    fs.writeFile(
-      "./src/shared/opensource/projects.json",
-      JSON.stringify(newProjects),
-      function (err) {
-        if (err) {
-          console.log(
-            "Error occured in pinned projects 1",
-            JSON.stringify(err)
-          );
-        }
+// ---------- Helpers ----------
+async function fetchRepo({ owner, name }) {
+  const res = await fetch(BASE_URL, {
+    method: "POST",
+    headers: HEADERS,
+    body: JSON.stringify({ query: REPO_QUERY, variables: { owner, name } }),
+  });
+
+  const txt = await res.text();
+  let json;
+  try {
+    json = JSON.parse(txt);
+  } catch (e) {
+    throw new Error(`Non-JSON response for ${owner}/${name}: ${txt.slice(0, 200)}...`);
+  }
+
+  if (json.errors) {
+    console.warn(`⚠️  ${owner}/${name}: ${JSON.stringify(json.errors)}`);
+    return null;
+  }
+
+  const repo = json.data?.repository;
+  if (!repo) return null;
+
+  // Map languages with iconifyClass
+  const languages = repo.languages?.nodes?.map(l => {
+    return LANGUAGE_ICONS[l.name]
+      ? { name: l.name, iconifyClass: LANGUAGE_ICONS[l.name] }
+      : { name: l.name, iconifyClass: null };
+  }) ?? [];
+
+  return {
+    id: repo.id,
+    name: repo.name,
+    createdAt: repo.createdAt,
+    url: repo.url,
+    description: repo.description,
+    isFork: repo.isFork,
+    languages,
+  };
+}
+
+async function mapWithConcurrency(items, limit, fn) {
+  let i = 0;
+  const results = new Array(items.length);
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (true) {
+      const idx = i++;
+      if (idx >= items.length) return;
+      try {
+        results[idx] = await fn(items[idx], idx);
+      } catch (e) {
+        console.error(`❌ Error on item ${idx}:`, e.message);
+        results[idx] = null;
       }
-    );
-  })
-  .catch((error) =>
-    console.log("Error occured in pinned projects 2", JSON.stringify(error))
-  );
+    }
+  });
+  await Promise.all(workers);
+  return results;
+}
+
+function dedupeRepos(list) {
+  const seen = new Set();
+  return list.filter(({ owner, name }) => {
+    const key = `${owner.toLowerCase()}/${name.toLowerCase()}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+// ---------- Main ----------
+async function main() {
+  await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true }).catch(() => {});
+
+  const repos = dedupeRepos(REPOS);
+  if (repos.length === 0) {
+    console.error("No repos specified in REPOS.");
+    process.exit(1);
+  }
+
+  console.log(`Fetching ${repos.length} repos from GitHub...`);
+
+  const fetched = await mapWithConcurrency(repos, CONCURRENCY, fetchRepo);
+  const data = fetched.filter(Boolean);
+
+  const output = { data };
+
+  await fs.writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2), "utf-8");
+  console.log(`Done. Wrote ${data.length} repos to ${OUTPUT_PATH}.`);
+}
+
+main().catch(e => {
+  console.error("Uncaught error:", e);
+  process.exit(1);
+});

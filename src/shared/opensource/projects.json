@@ -1,17 +1,13 @@
 {
   "data": [
     {
-      "id": "R_kgDOHsflbQ",
-      "name": "aezouhri.github.io",
-      "createdAt": "2022-07-21T15:02:59Z",
-      "url": "https://github.com/aezouhri/aezouhri.github.io",
-      "description": "Personal website.",
+      "id": "R_kgDONsp-lA",
+      "name": "Autolingo",
+      "createdAt": "2025-01-20T02:54:32Z",
+      "url": "https://github.com/aezouhri/Autolingo",
+      "description": "A live translation web app, currently supporting English to French",
       "isFork": false,
       "languages": [
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
@@ -27,20 +23,16 @@
       ]
     },
     {
-      "id": "R_kgDOH2khxw",
-      "name": "VaccineProject",
-      "createdAt": "2022-08-20T16:42:17Z",
-      "url": "https://github.com/aezouhri/VaccineProject",
-      "description": "Vaccine Comfirmation Project that was made during a Uiowa Hackathon for the Class Software Design",
-      "isFork": true,
+      "id": "R_kgDOK7DFTQ",
+      "name": "Notably",
+      "createdAt": "2023-12-18T10:54:18Z",
+      "url": "https://github.com/aezouhri/Notably",
+      "description": "Notably is a versatile mobile and web application designed to enhance the studying experience for students.",
+      "isFork": false,
       "languages": [
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Java",
-          "iconifyClass": "logos-java"
         },
         {
           "name": "CSS",
@@ -53,39 +45,100 @@
       ]
     },
     {
-      "id": "R_kgDOHwaQNg",
-      "name": "Smart-GreenHouse",
-      "createdAt": "2022-08-02T14:07:36Z",
-      "url": "https://github.com/aezouhri/Smart-GreenHouse",
-      "description": null,
+      "id": "R_kgDOKXVupA",
+      "name": "SignFlow",
+      "createdAt": "2023-09-23T14:56:31Z",
+      "url": "https://github.com/aezouhri/SignFlow",
+      "description": "SignFlow is an educative fingerspelling web application.",
       "isFork": false,
       "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
     {
-      "id": "R_kgDOHWateA",
-      "name": "Tesla-Model-DIY",
-      "createdAt": "2022-05-17T13:41:41Z",
-      "url": "https://github.com/aezouhri/Tesla-Model-DIY",
-      "description": null,
-      "isFork": true,
-      "languages": []
-    },
-    {
-      "id": "R_kgDOGf3lNw",
-      "name": "Morse_Code_translator",
-      "createdAt": "2021-12-08T00:44:30Z",
-      "url": "https://github.com/aezouhri/Morse_Code_translator",
-      "description": "GUI program that converts Alphabet letters to Morse Code and vice versa.",
+      "id": "R_kgDOI6Mpvg",
+      "name": "OmniLens",
+      "createdAt": "2023-02-05T23:48:07Z",
+      "url": "https://github.com/Iron-Men-2023/OmniLens",
+      "description": "Omnilense is a cutting-edge social media app built with React Native and Expo that redefines human connectivity.",
       "isFork": false,
       "languages": [
         {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
           "name": "Java",
           "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Objective-C++",
+          "iconifyClass": "logos-c-plusplus"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Ruby",
+          "iconifyClass": "logos:ruby"
+        },
+        {
+          "name": "Starlark",
+          "iconifyClass": null
+        },
+        {
+          "name": "Objective-C",
+          "iconifyClass": null
+        },
+        {
+          "name": "CMake",
+          "iconifyClass": null
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOK4qbDA",
+      "name": "Ad-vertisement",
+      "createdAt": "2023-12-12T04:18:59Z",
+      "url": "https://github.com/aezouhri/Ad-vertisement",
+      "description": "Leveraging AI to create a story book simply by talking.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         }
       ]
     }
